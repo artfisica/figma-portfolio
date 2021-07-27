@@ -10,7 +10,7 @@ Figma Embed Portfolio
 
 💡 Inspired by Figma Embed<br/>
 🎨 Designed to create manageable portfolio without code<br/>
-🦄 Easy to updtae with figma<br/>
+🦄 Easy to update with figma<br/>
 <br/>
 📱Mobile version<br/>
 ♻️ Real time refresh<br/>
